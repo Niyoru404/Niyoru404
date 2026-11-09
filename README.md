@@ -17,15 +17,7 @@
 
 </div>
 
-<img src="assets/cat.png" height="110" align="left" hspace="16" alt="A small cat">
-
-### 🌙 About me
-
-👋 Hii There!
-
-🐈 My Name is Nitsuki, a Luau Scripter ^^
-
-<br clear="all">
+<img src="assets/hello.svg" width="100%" alt="Hii There! My name is Nitsuki, a Luau Scripter ^^">
 
 <img src="assets/stats.svg" width="100%" alt="Commit activity">
 <img src="assets/footer.svg" width="100%" alt="Good Night, Zzz">
