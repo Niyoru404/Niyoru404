@@ -15,13 +15,17 @@
   <img src="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=d8d8d8" alt="Hyprland">
 </p>
 
-<img src="assets/stats.svg" width="100%" alt="Commit activity">
-
 </div>
 
-<img src="assets/cat.png" height="130" align="right" alt="A small cat">
-<img src="assets/likes.png" height="230" alt="I like Cats. I love Cookies. Linux User. Roblox Dev.">
+<img src="assets/cat.png" height="110" align="left" hspace="16" alt="A small cat">
+
+### 🌙 About me
+
+👋 Hii There!
+
+🐈 My Name is Nitsuki, a Luau Scripter ^^
 
 <br clear="all">
 
-<img src="assets/footer.svg" width="100%" alt="Good night">
+<img src="assets/stats.svg" width="100%" alt="Commit activity">
+<img src="assets/footer.svg" width="100%" alt="Good Night, Zzz">
