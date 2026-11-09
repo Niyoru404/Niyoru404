@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="assets/hello.svg" width="100%" alt="Hii There! My name is Nitsuki, a Luau Scripter">
+<img src="assets/hello.svg" width="100%" alt="Hii There! My name is Nitsuki, a Late Night Coder">
 
 <img src="assets/stats.svg" width="100%" alt="Commit activity">
 <img src="assets/footer.svg" width="100%" alt="Coding while you sleep, Zzz">
