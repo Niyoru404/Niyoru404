@@ -3,16 +3,16 @@
 <img src="assets/room-dark.gif" width="100%" alt="A dark room at night, with rain on the window">
 
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d8d8d8" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=d8d8d8" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=d8d8d8" alt="Luau">
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=d8d8d8" alt="Arduino">
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=d8d8d8" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=d8d8d8" alt="CSS">
+  <img src="assets/badges/python.svg" alt="Python">
+  <img src="assets/badges/typescript.svg" alt="TypeScript">
+  <img src="assets/badges/luau.svg" alt="Luau">
+  <img src="assets/badges/arduino.svg" alt="Arduino">
+  <img src="assets/badges/html.svg" alt="HTML">
+  <img src="assets/badges/css.svg" alt="CSS">
   <br>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=d8d8d8" alt="ESP32">
-  <img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=d8d8d8" alt="CachyOS">
-  <img src="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=d8d8d8" alt="Hyprland">
+  <img src="assets/badges/esp32.svg" alt="ESP32">
+  <img src="assets/badges/cachyos.svg" alt="CachyOS">
+  <img src="assets/badges/hyprland.svg" alt="Hyprland">
 </p>
 
 </div>
