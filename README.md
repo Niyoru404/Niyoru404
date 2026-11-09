@@ -9,7 +9,7 @@
   <img src="assets/badges/arduino.svg" alt="Arduino">
   <img src="assets/badges/html.svg" alt="HTML">
   <img src="assets/badges/css.svg" alt="CSS">
-  <br>
+  <img src="assets/badges/git.svg" alt="Git">
   <img src="assets/badges/esp32.svg" alt="ESP32">
   <img src="assets/badges/cachyos.svg" alt="CachyOS">
   <img src="assets/badges/hyprland.svg" alt="Hyprland">
@@ -20,4 +20,4 @@
 <img src="assets/hello.svg" width="100%" alt="Hii There! My name is Nitsuki, a Luau Scripter">
 
 <img src="assets/stats.svg" width="100%" alt="Commit activity">
-<img src="assets/footer.svg" width="100%" alt="Good Night, Zzz">
+<img src="assets/footer.svg" width="100%" alt="Coding while you sleep, Zzz">
